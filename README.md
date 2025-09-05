@@ -19,10 +19,12 @@ The toolbox provides functions and examples for optimizing sample allocation acr
   Lightweight examples that run with adaptive search only.  
   These scripts reproduce the main results quickly and are the best entry point for new users and reviewers.
 
-- **Full Demos**  
-  More detailed scripts (Examples 1–3) comparing exhaustive grid search, staged fixed-step refinements, and adaptive search.  
-  These provide finer resolution but may require substantial runtime (minutes to hours depending on grid size).
-  Validation against classical two-sample *t*-test allocation formulae.  
+  **Full Demos**
+   More detailed scripts reproducing the analyses from the manuscript:  
+   - Examples 1–3** (factor mean differences, path coefficient differences, and metric invariance).  
+   - Validation with Classical Results** (single-indicator two-group mean comparisons against the closed-form allocation formula).  
+   These scripts compare exhaustive grid search, staged fixed-step refinements, and adaptive search.  
+  They provide finer resolution but may require substantial runtime (minutes to hours depending on grid size and model complexity).
 
 ## Getting Started
 The repository contains an empty .here file to ensure that the root directory is consistently recognized when using the here package for relative paths.
