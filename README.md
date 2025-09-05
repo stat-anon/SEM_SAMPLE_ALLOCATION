@@ -22,8 +22,6 @@ The toolbox provides functions and examples for optimizing sample allocation acr
 - **Full Demos**  
   More detailed scripts (Examples 1–3) comparing exhaustive grid search, staged fixed-step refinements, and adaptive search.  
   These provide finer resolution but may require substantial runtime (minutes to hours depending on grid size).
-
-- **Sanity checks**  
   Validation against classical two-sample *t*-test allocation formulae.  
 
 ## Getting Started
