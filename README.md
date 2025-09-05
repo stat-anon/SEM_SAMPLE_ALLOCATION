@@ -26,6 +26,8 @@ The toolbox provides functions and examples for optimizing sample allocation acr
 - **Sanity checks**  
   Validation against classical two-sample *t*-test allocation formulae.  
 
+## Getting Started
+The repository contains an empty .here file to ensure that the root directory is consistently recognized when using the here package for relative paths.
 
 ---
 
