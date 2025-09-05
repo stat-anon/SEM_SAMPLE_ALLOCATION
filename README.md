@@ -1,4 +1,4 @@
-」 # Sample Allocation Optimizer for Two-Group SEM
+# Sample Allocation Optimizer for Two-Group SEM
 
 This repository contains the R implementation accompanying the manuscript *[title omitted for blind review]*.  
 The toolbox provides functions and examples for optimizing sample allocation across two groups in multiple-group structural equation modeling (MGSEM).
