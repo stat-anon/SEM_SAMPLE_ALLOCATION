@@ -29,10 +29,8 @@ The toolbox provides functions and examples for optimizing sample allocation acr
 
 ---
 
-## Usage
+## License
 
-1. Load required R packages:
-   ```r
-   library(pacman)
-   p_load(lavaan, progress, dplyr, purrr, tibble, ggplot2, patchwork, stringr)
+This repository is released under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
