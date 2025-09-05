@@ -28,7 +28,11 @@ The toolbox provides functions and examples for optimizing sample allocation acr
   They provide finer resolution but may require substantial runtime (minutes to hours depending on grid size and model complexity).
 
 ## Getting Started
-The repository contains an empty .here file to ensure that the root directory is consistently recognized when using the here package for relative paths.
+- The repository includes an empty `.here` file so that the root directory is consistently recognized when using the **here** package for relative paths.  
+- To run the analyses, first download all R scripts and the demo script(s) you wish to execute.  
+- We recommend starting with the **Quick Demos**, which illustrate the workflow with adaptive search and run quickly.  
+- The **Full Demos** reproduce all results from the manuscript but involve exhaustive searches, which can be computationally intensive (minutes to hours depending on grid size and model complexity).
+
 
 ---
 
