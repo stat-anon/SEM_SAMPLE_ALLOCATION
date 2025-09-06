@@ -7,19 +7,21 @@ The toolbox provides functions and examples for optimizing sample allocation acr
 
 ## Contents
 
-- **Core functions (`99_all_in_1.R`)**  
+- ** R **  
   Complete function suite, organized into:
   - Power engine  
   - Constraint solvers  
   - Optimization strategies (grid, fixed-step, adaptive step)  
   - Heuristics and tie-breakers  
-  - Visualization routines  
+  - Visualization routines
 
-- **Quick Demos (Recommended)**  
+  All functions can be loaded at once by sourcing ("R/99_all_in_1.R")
+
+- **Demos/ Quick (Recommended)**  
   Lightweight examples that run with adaptive search only.  
   These scripts reproduce the main results quickly and are the best entry point for new users and reviewers.
 
-- **Full Demos**
+- **Demos / Full**
    More detailed scripts reproducing the analyses from the manuscript:  
    - Examples 1–3 (factor mean differences, path coefficient differences, and metric invariance).  
    - Validation with Classical Results (single-indicator two-group mean comparisons against the closed-form allocation formula).
