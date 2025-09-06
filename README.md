@@ -7,7 +7,7 @@ The toolbox provides functions and examples for optimizing sample allocation acr
 
 ## Contents
 
-- ** R **  
+- **R**  
   Complete function suite, organized into:
   - Power engine  
   - Constraint solvers  
